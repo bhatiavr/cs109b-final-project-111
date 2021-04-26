@@ -1,0 +1,15 @@
+Questions:
+
+ARGO
+-------
+1. Can we try implementing the argo model using RNN and comparing it to the baseline model?
+
+3. Does it matter if we are working on flu trens from the past (2018-19) or do we have to spefically work on COVID-19 predictions problems?
+
+
+Datasets to requests:
+1. Google Trend Data
+* How do we come up with a good set of search terms for use in Google Trends?
+
+2. Number of hospitalizations for flu like symptoms
+3. Wastewater PCR test data for influenza and other diseases.

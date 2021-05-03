@@ -31,6 +31,7 @@ dependencies:
     - urllib3
     - xlrd
     - openpyxl
+    - conda-forge::python-graphviz
     - pip:
         - csaps
         - gap_stat

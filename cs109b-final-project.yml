@@ -27,11 +27,14 @@ dependencies:
     - statsmodels
     - sympy
     - tensorflow>=2.3
+    - tensorflow-gpu
     - theano
     - urllib3
     - xlrd
     - openpyxl
     - conda-forge::python-graphviz
+    - cudnn
+    - xgboost
     - pip:
         - csaps
         - gap_stat
